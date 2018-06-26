@@ -18,8 +18,7 @@ import javax.imageio.ImageIO;
 /**
  *
  * @author geekgao
- * ������
- * ����ͼƬ,��ȡ�ļ���
+ * 实现简单的导游系统
  *
  */
 public class GuideUtil {

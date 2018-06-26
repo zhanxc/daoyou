@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acbfad3e-5f56-45d4-be8c-e352f608a9a7" name="Default" comment="" />
+    <list default="true" id="acbfad3e-5f56-45d4-be8c-e352f608a9a7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/daoyou/GuideAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/daoyou/GuideAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/daoyou/GuideSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/daoyou/GuideSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/daoyou/GuideUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/daoyou/GuideUtil.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,36 +22,27 @@
         <entry file="file://$PROJECT_DIR$/src/daoyou/GuideAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="902">
-              <caret line="41" column="46" lean-forward="true" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+              <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#710#719#0" expanded="true" />
-                <element signature="e#878#887#0" expanded="true" />
-                <element signature="e#2325#2334#0" expanded="true" />
-                <element signature="e#3592#3601#0" expanded="true" />
-                <element signature="e#3646#3655#0" expanded="true" />
-                <element signature="e#3706#3715#0" expanded="true" />
-                <element signature="e#4660#4669#0" expanded="true" />
-                <element signature="e#4728#4737#0" expanded="true" />
-                <element signature="e#4799#4808#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GuideSystem.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GuideSystem.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/daoyou/GuideSystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="220">
+              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
               <folding>
-                <element signature="e#5524#5533#0" expanded="true" />
-                <element signature="e#6664#6820#0" expanded="true" />
-                <element signature="e#6819#6820#0" expanded="true" />
-                <element signature="e#18225#18234#0" expanded="true" />
-                <element signature="e#20547#20556#0" expanded="true" />
-                <element signature="e#24417#24426#0" expanded="true" />
-                <element signature="e#24920#24929#0" expanded="true" />
+                <element signature="e#5508#5517#0" expanded="true" />
+                <element signature="e#6648#6804#0" expanded="true" />
+                <element signature="e#6803#6804#0" expanded="true" />
+                <element signature="e#18209#18218#0" expanded="true" />
+                <element signature="e#20531#20540#0" expanded="true" />
+                <element signature="e#24401#24410#0" expanded="true" />
+                <element signature="e#24904#24913#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,21 +51,20 @@
       <file leaf-file-name="GuideUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/daoyou/GuideUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="129" column="13" lean-forward="true" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
+            <state relative-caret-position="397">
+              <caret line="128" column="13" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3242#3258#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Vertex.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Vertex.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/daoyou/Vertex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="308">
+              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -88,6 +84,9 @@
       <find>src/images/map.jpg</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -97,15 +96,17 @@
         <option value="$PROJECT_DIR$/src/Vertex.java" />
         <option value="$PROJECT_DIR$/src/daoyou/GuideSystem.java" />
         <option value="$PROJECT_DIR$/src/view.txt" />
+        <option value="$PROJECT_DIR$/src/daoyou/Vertex.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="9" />
     <option name="y" value="4" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -230,7 +231,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
@@ -240,12 +242,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20424837" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19312602" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23827533" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1482602" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.20588236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -274,13 +276,6 @@
     <entry file="file://$PROJECT_DIR$/src/images/map.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/daoyou/Vertex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -294,46 +289,43 @@
     <entry file="file://$PROJECT_DIR$/src/daoyou/GuideAlgorithm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="902">
-          <caret line="41" column="46" lean-forward="true" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
+          <caret line="41" column="46" selection-start-line="41" selection-start-column="46" selection-end-line="41" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#710#719#0" expanded="true" />
-            <element signature="e#878#887#0" expanded="true" />
-            <element signature="e#2325#2334#0" expanded="true" />
-            <element signature="e#3592#3601#0" expanded="true" />
-            <element signature="e#3646#3655#0" expanded="true" />
-            <element signature="e#3706#3715#0" expanded="true" />
-            <element signature="e#4660#4669#0" expanded="true" />
-            <element signature="e#4728#4737#0" expanded="true" />
-            <element signature="e#4799#4808#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/daoyou/GuideUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="129" column="13" lean-forward="true" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3242#3258#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/daoyou/GuideSystem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="220">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding>
-            <element signature="e#5524#5533#0" expanded="true" />
-            <element signature="e#6664#6820#0" expanded="true" />
-            <element signature="e#6819#6820#0" expanded="true" />
-            <element signature="e#18225#18234#0" expanded="true" />
-            <element signature="e#20547#20556#0" expanded="true" />
-            <element signature="e#24417#24426#0" expanded="true" />
-            <element signature="e#24920#24929#0" expanded="true" />
+            <element signature="e#5508#5517#0" expanded="true" />
+            <element signature="e#6648#6804#0" expanded="true" />
+            <element signature="e#6803#6804#0" expanded="true" />
+            <element signature="e#18209#18218#0" expanded="true" />
+            <element signature="e#20531#20540#0" expanded="true" />
+            <element signature="e#24401#24410#0" expanded="true" />
+            <element signature="e#24904#24913#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/daoyou/GuideUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="128" column="13" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/daoyou/Vertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>

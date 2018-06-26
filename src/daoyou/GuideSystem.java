@@ -35,6 +35,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextField;
 
+// 简单的导游系统
 public class GuideSystem extends JFrame{
 
     //软件左上角图标

@@ -13,7 +13,7 @@ import java.util.Stack;
 /**
  *
  * @author geekgao
- * �ṩ��̬���㷨����
+ * 简单的导游系统
  *
  */
 
@@ -167,4 +167,3 @@ public class GuideAlgorithm {
     }
 
 }
-
